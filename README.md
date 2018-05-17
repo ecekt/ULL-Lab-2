@@ -28,8 +28,6 @@ import torch.optim as optim
 
 import torch.nn.functional as F
 
-torch.manual_seed(1)
-
 import time
 
 from datetime import datetime
