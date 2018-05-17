@@ -1,6 +1,6 @@
 # ULL Practical 2
 
-We provide our notebooks for Skip-gram, Bayesian Skip-gram and Embed-Align. Along with these, we submit the code for performing the Lexical subsititution task and GAP evaluation for each model and AER evaluation for Embed-Align. We also provide our code for generating data for skip-gram that creates positive samples and negative samples. For Embed-Align, we apply a different procedure to preprocess the data.
+We provide our notebooks for Skip-gram, Bayesian Skip-gram and Embed-Align. Along with these, we submit the code for performing the Lexical subsititution task and GAP evaluation for each model and AER evaluation for Embed-Align. We also provide our code for generating data for skip-gram that creates positive samples and negative samples. For Embed-Align, we apply a different procedure to preprocess the data. We also upload some of the result files we have for the Lexical Substitution Task.
 
 
 ## Libraries
